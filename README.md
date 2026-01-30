@@ -1,7 +1,7 @@
 Smart Spend
 Turning spending data into smarter card decisions
 
-SpendWise AI is a personal finance analytics and recommendation system that analyzes transaction-level credit card data to generate actionable insights and optimize cashback and savings. The project transforms raw financial data into structured analytics, detects spending anomalies, and recommends the best credit card for each purchase based on historical reward behavior.
+SmartSpend is a personal finance analytics and recommendation system that analyzes transaction-level credit card data to generate actionable insights and optimize cashback and savings. The project transforms raw financial data into structured analytics, detects spending anomalies, and recommends the best credit card for each purchase based on historical reward behavior.
 
 The system includes monthly and yearly spending analysis by card and category, anomaly detection for inconsistent spending and subscription spikes, store-wise spending breakdowns per card, and a rule-based recommender that maximizes expected cashback while respecting credit and merchant limits. A lightweight chatbot interface enables users to query their spending patterns and receive recommendations through natural language instead of static dashboards.
 
